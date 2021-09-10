@@ -210,11 +210,11 @@ Practice accessing data above by console.log-ing following items:
 (no functions needed) */
 
 //(1) Name of the first artist (0th index) in the array
-
+console.log(artists[0].name)
 
 //(2) Bio of the third artist (2nd index) in the array 
 
-
+console.log(artists[2].bio)
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 (no function needed) 
@@ -250,8 +250,8 @@ If correct, the function should return ["Salvador Dali", "Frida Kahlo"]*/
 function get20s(arr) {
   const life = [];
   for (let i = 0; i < arr.length; i++) {
-    if (arr[i]. years >= 1900 - 2000){
-      life.push(arr[i].years)
+    if (arr[i].years >= (1900 - 2000)){
+      life.push(arr[i].names)
     }
   }
   return life;

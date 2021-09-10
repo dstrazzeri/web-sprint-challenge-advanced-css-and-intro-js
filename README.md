@@ -29,9 +29,11 @@ Web Accessibility, is just that! It has to do with making web pages as accessibl
 -When using a color to convey an important message make sure to include a visual counterpart! EX. instead of just green, include a check-mark!
 -Keep screen readers in mind! Use semantic tags.
 3. How would you explain the concept of a variable to someone new to programming?
+Variables are containers that hold information. Their purpose in to label and store data, so that it can be better understood, and used.
 4. What is the purpose of using functions in code?
+A function is a block of code that is designed to perform a particular task.
 5. How do you access a key inside of an object inside of an array?
-
+You can use dot notation or bracket notation.
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
